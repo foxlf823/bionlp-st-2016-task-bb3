@@ -1,0 +1,13 @@
+Gingivomandibular	0	17	JJ	gingivomandibular	B-adj.all
+infection	18	27	NN	infection	B-noun.state
+due	28	31	JJ	due	B-adj.all
+to	32	34	TO	to	I-adj.all
+Mycobacterium	35	48	NN	mycobacterium	B-noun.animal
+kansasii	49	57	NN	kansasius	B-noun.food
+in	58	60	IN	in	0
+a	61	62	DT	a	0
+patient	63	70	NN	patient	B-noun.person
+with	71	75	IN	with	0
+AIDS	76	80	NN	aid	B-noun.group
+.	80	81	.	.	0
+

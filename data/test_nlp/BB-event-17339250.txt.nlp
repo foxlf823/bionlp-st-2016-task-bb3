@@ -1,0 +1,15 @@
+Re	0	2	NNP	Re	0
+:	2	3	:	:	0
+long	4	8	JJ	long	B-adj.all
+term	9	13	NN	term	B-noun.communication
+follow	14	20	VB	follow	B-verb.change
+up	21	23	RB	up	I-verb.change
+of	24	26	IN	of	0
+patients	27	35	NNS	patient	B-noun.person
+treated	36	43	VBN	treat	B-verb.social
+for	44	47	IN	for	0
+Helicobacter	48	60	NNP	Helicobacter	B-noun.person
+pylori	61	67	NN	pylorus	I-noun.person
+infection	68	77	NN	infection	B-noun.state
+.	77	78	.	.	0
+

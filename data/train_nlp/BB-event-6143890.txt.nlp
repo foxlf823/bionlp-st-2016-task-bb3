@@ -1,0 +1,16 @@
+Rapid	0	5	JJ	rapid	B-adj.all
+detection	6	15	NN	detection	B-noun.cognition
+with	16	20	IN	with	0
+monoclonal	21	31	JJ	monoclonal	B-noun.substance
+antibodies	32	42	NNS	antibody	I-noun.substance
+of	43	45	IN	of	0
+Chlamydia	46	55	NN	chlamydium	B-noun.animal
+trachomatis	56	67	NN	trachomati	I-noun.animal
+in	68	70	IN	in	0
+urethral	71	79	JJ	urethral	B-adj.pert
+smears	80	86	NNS	smear	B-noun.feeling
+and	87	90	CC	and	0
+urine	91	96	NN	urine	B-noun.substance
+sediments	97	106	NNS	sediment	B-noun.object
+.	106	107	.	.	0
+
