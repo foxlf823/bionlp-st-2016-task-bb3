@@ -1,0 +1,15 @@
+Vibrio	0	6	NNP	Vibrio	B-noun.animal
+fetus	7	12	NN	fetus	I-noun.animal
+human	13	18	JJ	human	B-adj.pert
+infection	19	28	NN	infection	B-noun.state
+-	28	29	:	-	0
+-	29	30	:	-	0
+isolation	30	39	NN	isolation	B-noun.state
+from	40	44	IN	from	0
+a	45	46	DT	a	0
+subacute	47	55	JJ	subacute	B-adj.all
+bacterial	56	65	JJ	bacterial	B-adj.pert
+endocarditis	66	78	NN	endocarditis	I-noun.state
+case	79	83	NN	case	B-noun.state
+.	83	84	.	.	0
+
